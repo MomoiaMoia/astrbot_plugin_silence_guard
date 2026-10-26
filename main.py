@@ -26,7 +26,7 @@ def is_silence(text: str) -> bool:
 
 
 @register(
-    "astrbot_plugin_slience_guard",
+    "astrbot_plugin_silence_guard",
     "神秘蓝色小女仆",
     "静默丢弃 <silence> 占位回复：不发送、不提示、不播报拦截信息",
     "v1.0.0",
